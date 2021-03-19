@@ -1,3 +1,37 @@
+.container1{
+    width: 60%;
+    margin:auto;
+    margin-top 40px,
+    margin-bottom 15px;
+    text-align: center;
+  
+}
+.subtit{
+    color: rgb(116, 116, 116);
+    font-weight:500;
+    font-family: 'Times New Roman', Times, serif;
+}
+.subtit1{
+    color: rgb(63, 63, 63);
+    font-weight:500;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container2{
+    width: 45%;
+    margin:auto;
+    margin-top 15px
+    font-family:'Times New Roman', Times, serif;
+    font-size: 22px ;
+    color: rgb(63,63,63);
+    font-weight: 500 ;
+    
+}
+body{
+    
+    
+}
 h1{
-    color:green
+    font-family:fantasy, Times, serif;
+    font-size: 44px ;
+    font-weight: bold ;
 }
