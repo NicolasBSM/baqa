@@ -49,3 +49,8 @@ h2{
     float: left;
     width: 50%;
 }
+
+.container3{
+    width: 55%;
+    margin:auto;
+}
